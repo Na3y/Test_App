@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Test_App</string>
+    <string name="error_connectoin">error connection</string>
+    <string name="tech">"tech"</string>
+    <string name="get_it">Get it</string>
+
+    <string name="token">Bearer 591f99547f569b05ba7d8777e2e0824eea16c440292cce1f8dfb3952cc9937ff</string>
+
+    <string-array name="category">
+        <item>Tech</item>
+        <item>Games</item>
+        <item>Books</item>
+        <item>Podcasts</item>
+    </string-array>
+
+</resources>
